@@ -1,0 +1,451 @@
+experiment_id,suite_name,mode,seed,status,outcome,termination_reason,validation_valid,violations_count,simulated_time,wall_ms,messages_sent,messages_dropped,retransmissions,acks_received,recovery_success_rate,agent_type,code_version
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,42,completed,valid,completed,1,0,25.0,10.569500000201515,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,42,completed,valid,completed,1,0,25.0,7.5099999994563404,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,42,completed,valid,completed,1,0,25.0,24.86529999987397,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,43,completed,valid,completed,1,0,25.0,9.060599999429542,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,43,completed,valid,completed,1,0,25.0,7.786199999827659,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,43,completed,valid,completed,1,0,25.0,20.544899998640176,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,44,completed,valid,completed,1,0,25.0,11.28190000054019,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,44,completed,valid,completed,1,0,25.0,9.010600000692648,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,44,completed,valid,completed,1,0,25.0,14.808199999606586,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,45,completed,valid,completed,1,0,25.0,9.004199999253615,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,45,completed,valid,completed,1,0,25.0,7.798499998898478,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,45,completed,valid,completed,1,0,25.0,17.810400000598747,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,46,completed,valid,completed,1,0,25.0,7.654800001546391,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,46,completed,valid,completed,1,0,25.0,8.632400000351481,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,46,completed,valid,completed,1,0,25.0,27.11240000098769,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,47,completed,valid,completed,1,0,25.0,11.162099999637576,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,47,completed,valid,completed,1,0,25.0,11.859999998705462,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,47,completed,valid,completed,1,0,25.0,25.202000000717817,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,48,completed,valid,completed,1,0,25.0,18.017399999735062,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,48,completed,valid,completed,1,0,25.0,11.4806999990833,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,48,completed,valid,completed,1,0,25.0,24.928500000896747,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,49,completed,valid,completed,1,0,25.0,13.306899998497101,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,49,completed,valid,completed,1,0,25.0,11.842800000522402,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,49,completed,valid,completed,1,0,25.0,20.35789999899862,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,50,completed,valid,completed,1,0,25.0,10.521000000153435,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,50,completed,valid,completed,1,0,25.0,12.571299999763141,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,50,completed,valid,completed,1,0,25.0,18.54480000110925,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,51,completed,invalid,completed,0,1,25.0,9.929900001225178,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,51,completed,invalid,completed,0,1,25.0,13.74489999943762,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,51,completed,invalid,completed,0,1,25.0,15.366699999503908,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,52,completed,valid,completed,1,0,25.0,7.419300000037765,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,52,completed,valid,completed,1,0,25.0,8.926300000894116,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,52,completed,valid,completed,1,0,25.0,16.00689999941096,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,53,completed,valid,completed,1,0,25.0,7.993700000952231,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,53,completed,valid,completed,1,0,25.0,8.208299999751034,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,53,completed,valid,completed,1,0,25.0,16.215999999985797,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,54,completed,valid,completed,1,0,25.0,10.3263999990304,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,54,completed,valid,completed,1,0,25.0,7.929199999125558,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,54,completed,valid,completed,1,0,25.0,14.551500000379747,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,55,completed,valid,completed,1,0,25.0,7.97710000006191,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,55,completed,valid,completed,1,0,25.0,11.03750000038417,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,55,completed,valid,completed,1,0,25.0,22.374199999831035,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,56,completed,valid,completed,1,0,25.0,7.62850000137405,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,56,completed,valid,completed,1,0,25.0,11.090500000136672,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,56,completed,valid,completed,1,0,25.0,22.715000000971486,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,57,completed,valid,completed,1,0,25.0,7.813700000042445,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,57,completed,valid,completed,1,0,25.0,10.385099998529768,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,57,completed,valid,completed,1,0,25.0,22.934900000109337,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,58,completed,valid,completed,1,0,25.0,10.69150000148511,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,58,completed,valid,completed,1,0,25.0,10.151299999051844,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,58,completed,valid,completed,1,0,25.0,18.8376000005519,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,59,completed,valid,completed,1,0,25.0,7.658099999389378,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,59,completed,valid,completed,1,0,25.0,9.704099998998572,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,59,completed,valid,completed,1,0,25.0,18.34690000032424,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,60,completed,invalid,completed,0,1,25.0,7.707299999310635,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,60,completed,invalid,completed,0,1,25.0,10.991300001478521,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,60,completed,invalid,completed,0,1,25.0,24.18529999886232,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,61,completed,valid,completed,1,0,25.0,18.035799999779556,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,61,completed,valid,completed,1,0,25.0,18.585199999506585,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,61,completed,valid,completed,1,0,25.0,28.09010000055423,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,62,completed,valid,completed,1,0,25.0,13.484999999491265,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,62,completed,valid,completed,1,0,25.0,22.9150999984995,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,62,completed,valid,completed,1,0,25.0,30.757099999391357,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,63,completed,valid,completed,1,0,25.0,15.512799998759874,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,63,completed,valid,completed,1,0,25.0,17.409600000974024,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,63,completed,valid,completed,1,0,25.0,24.92339999844262,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,64,completed,invalid,completed,0,1,25.0,12.257399999725749,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,64,completed,invalid,completed,0,1,25.0,10.979999999108259,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,64,completed,invalid,completed,0,1,25.0,36.039300000993535,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,65,completed,valid,completed,1,0,25.0,13.956099999631988,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,65,completed,valid,completed,1,0,25.0,12.55700000001525,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,65,completed,valid,completed,1,0,25.0,23.4111000008852,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,66,completed,valid,completed,1,0,25.0,8.61090000034892,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,66,completed,valid,completed,1,0,25.0,10.216999999101972,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,66,completed,valid,completed,1,0,25.0,16.57599999998638,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,67,completed,valid,completed,1,0,25.0,6.867599999168306,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,67,completed,valid,completed,1,0,25.0,10.671800000636722,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,67,completed,valid,completed,1,0,25.0,18.14390000072308,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,68,completed,valid,completed,1,0,25.0,6.797900001402013,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,68,completed,valid,completed,1,0,25.0,7.770800000798772,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,68,completed,valid,completed,1,0,25.0,14.414100000067265,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,69,completed,valid,completed,1,0,25.0,9.40719999925932,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,69,completed,valid,completed,1,0,25.0,7.9711999987921445,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,69,completed,valid,completed,1,0,25.0,19.92450000034296,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,70,completed,valid,completed,1,0,25.0,8.908800000426709,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,70,completed,valid,completed,1,0,25.0,7.797700000082841,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,70,completed,valid,completed,1,0,25.0,15.519400001721806,300,0,0,144,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,baseline,71,completed,valid,completed,1,0,25.0,8.03989999985788,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,timeout_baseline,71,completed,valid,completed,1,0,25.0,7.921899999928428,150,0,0,0,1.0,deterministic,1.0.0
+exp_reliable_30,Reliable Network Baseline Sweep,protected,71,completed,valid,completed,1,0,25.0,15.650899998945533,300,0,0,144,1.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,42,failed,incomplete,deadlock,0,5,4.294688407839545,1.7592999993212288,10,3,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,42,completed,valid,completed,1,0,200.0,12.98540000061621,150,37,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,42,completed,valid,completed,1,0,295.00799544133156,46.32409999976517,723,171,217,143,0.5836909871244635,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,43,failed,incomplete,deadlock,0,2,4.341683703564621,0.8453999998891959,10,2,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,43,completed,valid,completed,1,0,200.0,8.118699999613455,150,33,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,43,completed,valid,completed,1,0,292.679644859696,53.51909999990312,670,153,195,146,0.616822429906542,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,44,failed,incomplete,deadlock,0,6,2.1749946301361676,0.9169000004476402,6,5,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,44,completed,valid,completed,1,0,200.0,11.69590000063181,150,48,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,44,completed,valid,completed,1,0,298.9088290442808,48.57850000007602,725,195,228,143,0.5625,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,45,failed,incomplete,deadlock,1,0,4.441773531076116,1.140500000474276,10,2,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,45,completed,valid,completed,1,0,200.0,7.77149999885296,150,35,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,45,completed,valid,completed,1,0,277.20611070798674,37.13339999922027,703,184,221,144,0.5738396624472574,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,46,failed,incomplete,deadlock,0,2,4.8403382250689315,0.5774000001110835,8,2,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,46,completed,valid,completed,1,0,200.0,6.571799998710048,150,37,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,46,completed,valid,completed,1,0,297.0582575201212,35.18699999949604,728,192,228,142,0.5796460176991151,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,47,failed,incomplete,deadlock,1,0,4.907221659356631,0.741700001526624,10,1,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,47,completed,valid,completed,1,0,200.0,6.736900000760215,150,39,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,47,completed,valid,completed,1,0,296.00962778342,26.36530000017956,724,194,226,145,0.5829787234042553,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,48,failed,incomplete,deadlock,0,1,2.9735964123490026,0.6843999999546213,10,4,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,48,completed,valid,completed,1,0,200.0,6.671800001640804,150,36,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,48,completed,invalid,completed,0,1,303.22381348043626,36.82149999985995,725,164,219,146,0.6311111111111111,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,49,failed,incomplete,deadlock,1,0,4.156174062028354,0.7071999989420874,10,3,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,49,completed,valid,completed,1,0,200.0,6.568099999640253,150,44,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,49,completed,valid,completed,1,0,216.6569347938482,34.67839999939315,702,192,234,141,0.5714285714285714,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,50,failed,incomplete,deadlock,0,3,3.88608623757239,0.6875000017316779,8,3,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,50,completed,valid,completed,1,0,200.0,10.206799999650684,150,36,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,50,completed,valid,completed,1,0,280.47368755119584,41.79170000134036,740,178,228,143,0.5726141078838174,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,51,failed,incomplete,deadlock,0,1,4.376600998659723,1.038299998981529,8,2,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,51,completed,invalid,completed,0,1,193.89952612491294,7.64800000069954,150,36,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,51,completed,invalid,completed,0,1,275.79972858478004,32.94880000066769,728,188,225,143,0.5726141078838174,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,52,failed,incomplete,deadlock,0,1,4.402650687560815,0.6704000006720889,10,4,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,52,completed,valid,completed,1,0,200.0,6.0183000005054055,150,45,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,52,completed,valid,completed,1,0,191.10395975271425,28.79930000017339,716,192,242,142,0.5774058577405857,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,53,failed,incomplete,deadlock,0,3,3.4057877780912493,0.6726000010530697,8,2,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,53,completed,valid,completed,1,0,194.0280426982359,7.135300000300049,150,36,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,53,completed,valid,completed,1,0,286.8258191070713,29.310099998838268,706,171,218,145,0.6123348017621145,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,54,failed,incomplete,deadlock,0,1,4.125378769822148,0.7721000001765788,10,1,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,54,completed,valid,completed,1,0,200.0,5.94230000024254,150,37,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,54,completed,valid,completed,1,0,299.74487661984426,24.877600000763778,722,193,227,146,0.5882352941176471,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,55,failed,incomplete,deadlock,0,4,4.7418693540285854,0.9139000012510223,10,3,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,55,completed,valid,completed,1,0,200.0,8.559700001569581,150,35,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,55,completed,valid,completed,1,0,280.6807972386312,29.40599999965343,712,177,225,142,0.5982532751091703,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,56,failed,incomplete,deadlock,1,0,4.0758677649880335,1.041899999108864,10,2,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,56,completed,valid,completed,1,0,200.0,10.247299998809467,150,38,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,56,completed,valid,completed,1,0,213.98964303020952,33.18360000048415,679,174,224,143,0.5990783410138248,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,57,failed,incomplete,deadlock,0,2,3.916869434832195,1.130399999965448,10,2,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,57,completed,valid,completed,1,0,200.0,7.671900000786991,150,37,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,57,completed,valid,completed,1,0,292.403167603213,53.51690000134113,747,190,238,142,0.5648535564853556,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,58,failed,incomplete,deadlock,0,1,6.6980295877035685,4.069399999934831,16,2,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,58,completed,valid,completed,1,0,193.80880355066367,13.43780000024708,150,38,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,58,completed,invalid,completed,0,1,278.40434934882666,51.59760000060487,731,172,224,146,0.6081081081081081,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,59,failed,incomplete,deadlock,0,2,4.725041005166337,0.7949000009830343,8,2,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,59,completed,valid,completed,1,0,200.0,9.686100000180886,150,38,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,59,completed,valid,completed,1,0,299.0108724313718,44.35469999953057,732,164,221,144,0.6060606060606061,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,60,failed,incomplete,deadlock,0,1,3.6512779455250444,0.7259999983943999,10,2,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,60,completed,invalid,completed,0,1,200.0,7.54409999899508,150,45,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,60,completed,invalid,completed,0,1,292.0290599147295,32.366299999921466,713,184,216,144,0.5732758620689655,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,61,failed,incomplete,deadlock,0,1,6.835160440020014,0.9752000005391892,16,4,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,61,completed,valid,completed,1,0,193.67461805592245,6.0998000008112285,150,41,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,61,completed,valid,completed,1,0,266.1712999319568,25.369400000272435,724,200,234,142,0.5938864628820961,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,62,failed,incomplete,deadlock,0,1,4.16358154344743,1.0165999992750585,10,3,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,62,completed,valid,completed,1,0,200.0,6.800600000133272,150,41,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,62,completed,valid,completed,1,0,297.7478773686514,30.779099999563186,709,173,216,140,0.5625,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,63,failed,incomplete,deadlock,0,2,4.510416109906332,0.5999000004521804,8,4,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,63,completed,valid,completed,1,0,200.0,6.681400000161375,150,33,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,63,completed,valid,completed,1,0,284.01427882621783,28.04159999868716,724,174,225,146,0.6294642857142857,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,64,failed,incomplete,deadlock,0,1,2.509098281810844,0.7005999996181345,10,4,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,64,completed,valid,completed,1,0,200.0,6.853700000647223,150,39,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,64,completed,invalid,completed,0,1,187.58641869375174,26.3598000001366,662,148,208,144,0.6632653061224489,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,65,failed,incomplete,deadlock,0,1,4.361914115995934,0.9368000009999378,10,1,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,65,completed,valid,completed,1,0,200.0,9.33420000001206,150,40,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,65,completed,valid,completed,1,0,226.91011082158303,29.89020000131859,679,184,222,142,0.6055045871559633,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,66,failed,incomplete,deadlock,0,3,4.724857506727945,0.6531999988510506,10,2,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,66,completed,valid,completed,1,0,200.0,6.009099999573664,150,42,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,66,completed,valid,completed,1,0,220.76572714604038,27.408899999500136,695,167,217,147,0.6216216216216216,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,67,failed,incomplete,deadlock,0,2,4.356137165290628,0.6013000001985347,8,3,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,67,completed,valid,completed,1,0,200.0,7.3708999989321455,150,36,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,67,completed,valid,completed,1,0,303.05786455338404,29.32859999964421,718,185,226,144,0.603448275862069,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,68,failed,incomplete,deadlock,1,0,4.115046887318055,0.7499999992433004,10,2,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,68,completed,valid,completed,1,0,200.0,6.410100000721286,150,37,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,68,completed,valid,completed,1,0,254.8055159822356,33.09660000013537,731,162,222,148,0.6363636363636364,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,69,failed,incomplete,deadlock,0,1,4.585572057504798,0.9828000002016779,12,3,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,69,completed,valid,completed,1,0,194.18118143957793,6.125299998529954,150,44,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,69,completed,valid,completed,1,0,284.97588696265325,37.45510000044305,721,181,232,144,0.6188340807174888,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,70,failed,incomplete,deadlock,0,2,4.346846104273627,0.7757000003039138,10,1,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,70,completed,valid,completed,1,0,200.0,6.043400000635302,150,38,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,70,completed,valid,completed,1,0,265.8812956532795,45.78629999923578,706,184,223,144,0.5887445887445888,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),baseline,71,failed,incomplete,deadlock,0,1,3.0578348191052047,1.0555000008025672,8,2,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),timeout_baseline,71,completed,valid,completed,1,0,200.0,8.918699999412638,150,45,0,0,0.0,deterministic,1.0.0
+exp_loss_25_30,Loss Severity Sweep (25% Packet Loss),protected,71,completed,valid,completed,1,0,253.36894020079762,38.34230000029493,687,182,212,143,0.594017094017094,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,42,failed,incomplete,deadlock,0,5,2.980886283173575,0.4915999998047482,6,4,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,42,completed,invalid,completed,0,1,200.0,5.980199999612523,150,74,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,42,completed,invalid,completed,0,1,342.3778710062269,31.169799998679082,815,394,333,111,0.35855263157894735,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,43,failed,incomplete,deadlock,0,3,2.5110053088565283,0.926800001252559,6,4,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,43,completed,valid,completed,1,0,194.52786647658857,8.657399999719928,150,70,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,43,completed,valid,completed,1,0,381.018870785631,33.41840000030061,873,437,356,98,0.2823529411764706,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,44,failed,incomplete,deadlock,0,6,2.2067382636712565,0.3847999996651197,6,5,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,44,completed,valid,completed,1,0,200.0,5.217899999479414,150,78,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,44,completed,valid,completed,1,0,303.0831142792796,27.595300000029965,794,412,344,92,0.2761904761904762,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,45,failed,incomplete,deadlock,0,4,0.0,0.3589000007195864,6,6,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,45,completed,valid,completed,1,0,193.03374798028017,7.277400000020862,150,72,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,45,completed,valid,completed,1,0,308.5743426987262,25.967400000808993,787,399,332,99,0.3310580204778157,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,46,failed,incomplete,deadlock,0,3,4.907098301799138,0.7463000001735054,8,2,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,46,completed,valid,completed,1,0,200.0,5.511100000148872,150,76,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,46,completed,valid,completed,1,0,337.0507352969756,28.05900000021211,825,436,351,95,0.2822085889570552,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,47,failed,incomplete,deadlock,0,3,1.0502847589794917,0.4602999997587176,6,5,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,47,completed,invalid,completed,0,1,200.0,5.003799999030889,150,79,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,47,completed,valid,completed,1,0,298.0660915724951,31.650500000978354,795,393,343,98,0.3254237288135593,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,48,failed,incomplete,deadlock,0,2,2.459456230385369,0.65579999863985,10,5,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,48,completed,valid,completed,1,0,200.0,6.072199999834993,150,67,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,48,completed,valid,completed,1,0,296.32308362442575,37.0227999992494,802,398,350,103,0.3400673400673401,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,49,failed,incomplete,deadlock,0,4,1.682691319154768,0.5053999993833713,6,4,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,49,completed,invalid,completed,0,1,200.0,5.177999999432359,150,80,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,49,completed,valid,completed,1,0,325.7639721364932,25.717700000313926,802,407,343,100,0.31666666666666665,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,50,failed,incomplete,deadlock,0,3,3.265922862421545,0.8276000007754192,8,3,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,50,completed,valid,completed,1,0,200.0,5.002800000511343,150,80,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,50,completed,valid,completed,1,0,344.1272932082937,23.960999998962507,813,421,348,100,0.3072100313479624,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,51,failed,incomplete,deadlock,0,1,5.270461055773671,0.684200000250712,8,2,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,51,completed,invalid,completed,0,1,200.0,5.510299999514245,150,64,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,51,completed,invalid,completed,0,1,367.60817014828984,26.579499999570544,841,405,334,102,0.3047619047619048,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,52,failed,incomplete,deadlock,0,4,3.3723805999868763,0.5950000013399404,8,4,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,52,completed,valid,completed,1,0,200.0,12.463099999877159,150,72,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,52,completed,valid,completed,1,0,317.87122433211744,33.709699999235454,801,404,338,104,0.3311036789297659,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,53,failed,incomplete,deadlock,0,3,3.825510195611024,0.9505999987595715,8,3,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,53,completed,valid,completed,1,0,200.0,9.749000000738306,150,75,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,53,completed,valid,completed,1,0,357.7050992347541,27.698899999450077,832,402,333,98,0.2929936305732484,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,54,failed,incomplete,deadlock,0,1,4.457734680499036,0.7146000007196562,10,3,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,54,completed,valid,completed,1,0,200.0,5.809899999803747,150,81,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,54,completed,valid,completed,1,0,309.08058352956846,52.54899999999907,813,415,348,98,0.3180327868852459,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,55,failed,incomplete,deadlock,0,3,5.10399437922215,0.6858999986434355,8,2,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,55,completed,valid,completed,1,0,200.0,5.437799998617265,150,68,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,55,completed,valid,completed,1,0,301.36701817740294,24.51930000097491,837,397,349,107,0.33980582524271846,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,56,failed,incomplete,deadlock,0,3,3.3170897705480593,0.47419999827980064,6,4,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,56,completed,valid,completed,1,0,200.0,5.21159999880183,150,66,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,56,completed,valid,completed,1,0,348.7237071701345,26.484599999093916,818,390,334,104,0.321656050955414,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,57,failed,incomplete,deadlock,0,2,4.670925277781576,0.8808000002318295,10,2,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,57,completed,valid,completed,1,0,200.0,6.548900000780122,150,78,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,57,completed,valid,completed,1,0,326.6580940373184,31.68319999895175,808,407,341,102,0.321656050955414,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,58,failed,incomplete,deadlock,0,4,3.419693373774561,0.6627000002481509,6,3,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,58,completed,valid,completed,1,0,200.0,5.105599999296828,150,79,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,58,completed,valid,completed,1,0,361.3496255849838,26.45219999976689,837,404,343,100,0.30990415335463256,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,59,failed,incomplete,deadlock,0,2,6.282988034790161,0.5774000001110835,8,3,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,59,completed,valid,completed,1,0,200.0,5.443399999421672,150,74,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,59,completed,valid,completed,1,0,361.9466493958935,25.587500000256114,835,398,341,113,0.3503184713375796,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,60,failed,incomplete,deadlock,0,5,3.1602058916389795,0.5456999988382449,6,3,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,60,completed,valid,completed,1,0,200.0,5.197300000872929,150,72,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,60,completed,valid,completed,1,0,328.4728330668381,28.610899998966488,803,395,332,110,0.3554817275747508,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,61,failed,incomplete,deadlock,0,1,5.422130881518036,0.6400000002031447,8,5,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,61,completed,valid,completed,1,0,200.0,5.106200000227545,150,86,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,61,completed,valid,completed,1,0,340.1222258331993,23.91439999883005,804,420,348,100,0.31788079470198677,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,62,failed,incomplete,deadlock,0,3,2.4452716906220777,0.585900001169648,8,5,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,62,completed,valid,completed,1,0,200.0,5.372900001020753,150,70,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,62,completed,valid,completed,1,0,319.5753922215781,27.062899998782086,816,390,350,101,0.3344594594594595,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,63,failed,incomplete,deadlock,0,3,2.862977659617424,0.6424000002880348,6,3,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,63,completed,valid,completed,1,0,200.0,4.827900000236696,150,87,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,63,completed,valid,completed,1,0,325.643072347983,28.875500000140164,793,415,339,94,0.2916666666666667,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,64,failed,incomplete,deadlock,0,1,4.349096336232387,0.8462000005238224,8,3,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,64,completed,valid,completed,1,0,200.0,7.584500001030392,150,78,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,64,completed,valid,completed,1,0,347.7738803686976,29.62880000086443,815,404,331,98,0.2996845425867508,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,65,failed,incomplete,deadlock,0,1,3.453448121450914,0.5849000008311123,8,4,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,65,completed,valid,completed,1,0,200.0,5.961799999568029,150,68,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,65,completed,valid,completed,1,0,374.79462746580026,49.934200000279816,846,410,336,109,0.31137724550898205,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,66,failed,incomplete,deadlock,0,10,2.511724877175726,1.1721999999281252,6,5,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,66,completed,valid,completed,1,0,200.0,18.184000000474043,150,79,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,66,completed,valid,completed,1,0,366.7025449413958,43.61919999973907,806,400,338,108,0.35906040268456374,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,67,failed,incomplete,deadlock,0,2,2.808656437413648,0.6978000001254259,8,5,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,67,completed,valid,completed,1,0,200.0,5.412900000010268,150,71,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,67,completed,valid,completed,1,0,318.95623344803033,23.254399999132147,788,392,328,101,0.336734693877551,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,68,failed,incomplete,deadlock,1,0,3.2774532012610917,0.4859000000578817,6,3,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,68,completed,valid,completed,1,0,200.0,5.549900000914931,150,69,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,68,completed,valid,completed,1,0,320.266689147074,31.13130000019737,798,387,325,108,0.3333333333333333,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,69,failed,incomplete,deadlock,0,1,2.663072098094281,1.0032000009232434,10,5,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,69,completed,valid,completed,1,0,200.0,7.806799998434144,150,77,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,69,completed,valid,completed,1,0,322.69559736021506,36.18529999948805,812,408,336,99,0.3035143769968051,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,70,failed,incomplete,deadlock,0,4,2.286088912396172,0.5215000001044245,6,3,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,70,completed,valid,completed,1,0,194.29730665477905,5.215099999986705,150,74,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,70,completed,valid,completed,1,0,309.407433020809,30.169999999998254,826,420,346,95,0.2866043613707165,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),baseline,71,failed,incomplete,deadlock,0,5,2.6194000582197896,0.4528999998001382,6,4,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),timeout_baseline,71,completed,valid,completed,1,0,200.0,5.226200000834069,150,77,0,0,0.0,deterministic,1.0.0
+exp_loss_50_30,Severe Loss Sweep (50% Packet Loss),protected,71,completed,valid,completed,1,0,367.48196905461725,34.006999998382526,842,419,341,100,0.296969696969697,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,42,failed,incomplete,deadlock,0,5,3.5360191254158106,1.1309000001347158,10,2,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,42,completed,valid,completed,1,0,200.0,8.96670000111044,150,13,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,42,completed,valid,completed,1,0,387.7869407592402,34.1575999991619,643,30,145,150,0.8979591836734694,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,43,failed,incomplete,deadlock,0,2,3.4817015023557003,0.6916000002092915,10,1,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,43,completed,valid,completed,1,0,200.0,7.7085000011720695,150,16,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,43,completed,valid,completed,1,0,388.5168788781157,25.37779999875056,647,43,148,150,0.8851351351351351,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,44,failed,incomplete,deadlock,0,1,5.39542523700832,1.003000001219334,16,2,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,44,completed,valid,completed,1,0,193.75919397899216,6.824300000516814,150,26,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,44,completed,valid,completed,1,0,310.9884016197711,24.019599999519414,635,70,160,142,0.7721518987341772,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,45,failed,incomplete,deadlock,1,0,11.02415980445826,1.9534999992174562,42,6,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,45,completed,valid,completed,1,0,125.99221509091319,6.718299999192823,150,17,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,45,completed,valid,completed,1,0,335.9996261337926,32.16470000006666,647,75,162,139,0.7880794701986755,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,46,failed,incomplete,deadlock,1,0,10.33136843843553,1.6101000001071952,34,1,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,46,completed,valid,completed,1,0,174.3605227529235,8.943999999246444,150,15,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,46,completed,valid,completed,1,0,358.8705137660947,29.717099998379126,635,33,142,150,0.87248322147651,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,47,failed,incomplete,deadlock,1,0,3.904833508757193,0.9396999994351063,10,1,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,47,completed,valid,completed,1,0,200.0,7.542299999840907,150,15,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,47,completed,valid,completed,1,0,354.6267194277301,29.929700000138837,658,72,162,140,0.7784810126582279,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,48,failed,incomplete,deadlock,0,1,8.793381553187686,2.092199998514843,28,1,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,48,completed,valid,completed,1,0,181.22597833367084,10.041100000307779,150,21,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,48,completed,valid,completed,1,0,139.66025546923504,22.93380000082834,598,82,166,140,0.7575757575757576,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,49,failed,incomplete,deadlock,0,3,3.531693856684943,1.296399999773712,10,1,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,49,completed,valid,completed,1,0,200.0,14.318199999252101,150,17,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,49,completed,valid,completed,1,0,387.45019037900795,56.0181000000739,645,39,145,149,0.8775510204081632,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,50,failed,incomplete,deadlock,1,0,8.971253756245597,1.9432000008237083,28,2,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,50,completed,valid,completed,1,0,181.01744512645968,10.361699998611584,150,21,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,50,completed,valid,completed,1,0,236.0128150384808,28.75329999915266,626,77,166,139,0.7741935483870968,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,51,failed,incomplete,deadlock,0,1,5.3118572950477,1.6818000003695488,16,1,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,51,completed,invalid,completed,0,1,193.6780994894092,23.634299999685027,150,15,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,51,completed,invalid,completed,0,1,333.84318717881405,43.275799998809816,643,78,163,141,0.7701863354037267,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,52,failed,incomplete,deadlock,0,1,4.0214592057255,0.7464000009349547,10,1,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,52,completed,valid,completed,1,0,200.0,7.159700000556768,150,19,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,52,completed,valid,completed,1,0,271.52940618392915,22.836799998913193,612,65,158,143,0.8287671232876712,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,53,failed,incomplete,deadlock,0,1,4.094510810011526,0.8548999994673068,10,1,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,53,completed,valid,completed,1,0,200.0,7.0809999997436535,150,13,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,53,completed,valid,completed,1,0,388.11966029516265,26.120999998966,668,34,152,150,0.8896103896103896,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,54,failed,incomplete,deadlock,1,0,5.635478603327802,1.1293000006844522,16,1,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,54,completed,valid,completed,1,0,193.55156905886582,7.236100000227452,150,17,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,54,completed,valid,completed,1,0,373.45020937734137,23.471900000004098,628,35,136,150,0.8775510204081632,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,55,failed,incomplete,deadlock,1,0,11.563496452862697,2.044900000328198,40,3,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,55,completed,valid,completed,1,0,168.838016275389,8.844900001349743,150,11,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,55,completed,valid,completed,1,0,358.97265825845784,22.313799998300965,627,42,144,146,0.8456375838926175,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,56,failed,incomplete,deadlock,1,0,4.7989647001861915,1.0205999988102121,16,2,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,56,completed,valid,completed,1,0,193.58559266183812,11.694400000124006,150,16,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,56,completed,valid,completed,1,0,334.79290473161313,26.438599999892176,641,58,151,143,0.7770700636942676,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,57,failed,incomplete,deadlock,0,2,3.2903661919709677,0.9542999996483559,10,1,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,57,completed,valid,completed,1,0,200.0,10.296799999196082,150,15,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,57,completed,valid,completed,1,0,393.30354108242466,27.989899999738554,645,50,150,147,0.8503401360544217,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,58,failed,incomplete,deadlock,1,0,8.532318368879148,2.489200000127312,28,1,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,58,completed,valid,completed,1,0,180.533134151507,7.667800000490388,150,15,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,58,completed,valid,completed,1,0,183.33190999816534,24.64759999929811,606,83,170,138,0.7857142857142857,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,59,failed,incomplete,deadlock,0,1,3.929498345368775,1.1087000002589775,10,3,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,59,completed,valid,completed,1,0,200.0,8.672500000102445,150,15,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,59,completed,valid,completed,1,0,337.8576929895029,56.636199999047676,650,83,170,138,0.7577639751552795,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,60,failed,incomplete,deadlock,0,1,7.588143704098206,2.033099999607657,22,1,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,60,completed,invalid,completed,0,1,187.73363291059957,7.768399998894893,150,22,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,60,completed,invalid,completed,0,1,359.2231735100678,33.36659999877156,657,47,152,146,0.8141025641025641,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,61,failed,incomplete,deadlock,0,1,7.043270745204671,1.8373000002611661,22,1,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,61,completed,valid,completed,1,0,187.06444053986934,10.848099998838734,150,18,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,61,completed,valid,completed,1,0,323.01392428140684,28.724699999656877,613,53,142,145,0.8345323741007195,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,62,failed,incomplete,deadlock,1,0,8.562672444830707,1.677199999903678,28,1,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,62,completed,valid,completed,1,0,181.11796015339368,10.297599999830709,150,18,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,62,completed,valid,completed,1,0,340.21382971170567,28.591399999641,644,54,150,144,0.84,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,63,failed,incomplete,deadlock,1,0,10.682505334119803,3.4278999992238823,34,1,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,63,completed,valid,completed,1,0,175.093368745887,7.45430000097258,150,16,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,63,completed,valid,completed,1,0,359.1951802958202,29.978900000060094,650,55,156,147,0.808641975308642,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,64,failed,incomplete,deadlock,0,1,5.628499510940674,1.396999999997206,16,2,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,64,completed,invalid,completed,0,1,193.98585846790127,7.787300000927644,150,22,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,64,completed,invalid,completed,0,1,338.87019388976194,28.657999999268213,636,83,163,141,0.7692307692307693,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,65,failed,incomplete,deadlock,1,0,11.719678435935666,3.3552000004419824,42,6,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,65,completed,valid,completed,1,0,107.44729492375643,8.39070000074571,150,16,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,65,completed,valid,completed,1,0,338.4288746761523,28.44360000017332,647,65,155,141,0.7857142857142857,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,66,failed,incomplete,deadlock,1,0,10.690357487623249,3.530500000124448,40,5,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,66,completed,valid,completed,1,0,169.46060477793844,8.10500000079628,150,16,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,66,completed,valid,completed,1,0,363.07149618336973,29.3165000002773,651,52,152,144,0.8445945945945946,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,67,failed,incomplete,deadlock,0,4,3.789097882661853,1.115600000048289,10,2,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,67,completed,valid,completed,1,0,200.0,8.319099999425816,150,19,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,67,completed,valid,completed,1,0,390.86003469308173,31.68569999979809,658,52,158,150,0.8353658536585366,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,68,failed,incomplete,deadlock,1,0,3.587869499530508,1.2795999991794815,10,1,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,68,completed,valid,completed,1,0,200.0,8.762999999817112,150,11,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,68,completed,valid,completed,1,0,388.13679995649795,29.741099999228027,656,32,149,150,0.9054054054054054,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,69,failed,incomplete,deadlock,1,0,5.242112651879351,1.930099999299273,16,1,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,69,completed,valid,completed,1,0,193.76541341505435,9.238599999662256,150,14,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,69,completed,valid,completed,1,0,336.6043278032706,58.313199999247445,635,60,153,143,0.7756410256410257,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,70,failed,incomplete,deadlock,1,0,5.774087810185595,3.112800000963034,16,1,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,70,completed,valid,completed,1,0,193.72679978473502,11.09580000047572,150,17,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,70,completed,valid,completed,1,0,364.34681840398355,26.574299999992945,649,46,152,147,0.8523489932885906,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,baseline,71,failed,incomplete,deadlock,0,2,5.451994529726627,0.9883000002446352,16,1,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,timeout_baseline,71,completed,valid,completed,1,0,193.97196485649908,6.425100000342354,150,16,0,0,0.0,deterministic,1.0.0
+exp_partition_burst_30,Temporary Partition Burst Sweep,protected,71,completed,valid,completed,1,0,336.671040993176,21.808299999975134,634,63,149,143,0.7866666666666666,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,42,failed,incomplete,deadlock,0,45,3.9130804994132005,1.8061999999190448,28,6,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,42,completed,valid,completed,1,0,400.0,38.633200001640944,800,142,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,42,failed,incomplete,time_limit,0,28,400.02824115497185,95.961900000475,2338,468,672,530,0.6884057971014492,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,43,failed,incomplete,deadlock,0,49,4.322987679792503,3.680499999973108,32,6,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,43,completed,valid,completed,1,0,400.0,38.78369999983988,800,154,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,43,failed,incomplete,time_limit,1,0,400.0475457270027,108.99129999961588,2446,449,692,567,0.6947960618846695,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,44,failed,incomplete,deadlock,0,57,4.032210846961121,2.455300000292482,24,7,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,44,completed,valid,completed,1,0,400.0,39.668899999014684,800,179,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,44,failed,incomplete,time_limit,1,0,400.3450060656826,113.23260000062874,2435,516,708,537,0.6305220883534136,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,45,failed,incomplete,deadlock,0,45,3.9527281360331927,3.3779999994294485,28,7,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,45,completed,valid,completed,1,0,400.0,44.35179999927641,800,169,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,45,failed,incomplete,time_limit,1,0,400.0849058865367,115.81719999958295,2453,487,714,560,0.6807639836289222,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,46,failed,incomplete,deadlock,0,72,2.099611688249957,3.8961999998718966,20,6,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,46,completed,valid,completed,1,0,400.0,45.12789999898814,800,161,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,46,failed,incomplete,time_limit,1,0,400.1526398470322,169.84940000111237,2337,485,675,526,0.6618287373004355,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,47,failed,incomplete,deadlock,0,50,3.944516375553592,5.696600001101615,36,3,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,47,completed,invalid,completed,0,22,400.0,50.77560000063386,800,152,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,47,failed,incomplete,time_limit,1,0,400.073557711178,99.1905000009865,2324,456,674,527,0.677891654465593,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,48,failed,incomplete,deadlock,0,54,3.9775727423551936,3.5662999998749,28,5,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,48,completed,valid,completed,1,0,400.0,61.40120000054594,800,149,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,48,failed,incomplete,time_limit,1,0,400.1962482770404,129.92149999990943,2390,474,688,531,0.6634078212290503,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,49,failed,incomplete,deadlock,0,54,3.562907897021938,3.503800000544288,28,5,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,49,completed,valid,completed,1,0,400.0,39.26510000019334,800,181,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,49,failed,incomplete,time_limit,1,0,400.3995894058704,109.61409999981697,2604,548,771,573,0.6394472361809045,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,50,failed,incomplete,deadlock,0,50,3.9020539974447996,4.0316000013262965,32,5,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,50,completed,valid,completed,1,0,400.0,42.64259999945352,800,157,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,50,failed,incomplete,time_limit,1,0,400.66779353789235,115.28919999909704,2617,540,774,583,0.6506935687263556,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,51,failed,incomplete,deadlock,0,56,4.113015972198314,2.1988999997120118,28,3,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,51,completed,valid,completed,1,0,392.26590386851666,41.65939999984403,800,164,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,51,failed,incomplete,time_limit,1,0,400.2281009519951,112.01769999934186,2412,480,693,540,0.6666666666666666,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,52,failed,incomplete,deadlock,0,67,3.5272069438141367,2.752200000031735,24,10,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,52,completed,valid,completed,1,0,400.0,60.212299998966046,800,180,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,52,failed,incomplete,time_limit,1,0,400.00312627789,112.39149999892106,2572,536,754,583,0.6606683804627249,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,53,failed,incomplete,deadlock,0,54,3.900337820182381,3.7740000007033814,32,6,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,53,completed,invalid,completed,0,15,400.0,51.74799999986135,800,157,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,53,failed,incomplete,time_limit,1,0,400.117418648668,121.36889999965206,2934,583,863,666,0.6699889258028793,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,54,failed,incomplete,deadlock,0,47,4.242612682563671,3.7509000012505567,36,5,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,54,completed,valid,completed,1,0,400.0,41.51020000062999,800,165,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,54,failed,incomplete,time_limit,1,0,400.0726836098788,168.14089999934367,3367,690,1010,767,0.6596153846153846,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,55,failed,incomplete,deadlock,0,48,3.955282962277817,2.1921000006841496,28,5,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,55,completed,valid,completed,1,0,391.5631353271889,50.079999999070424,800,138,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,55,failed,incomplete,time_limit,1,0,400.1521815441855,122.84429999999702,2373,421,661,546,0.6995645863570392,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,56,failed,incomplete,deadlock,0,50,3.948456210730501,3.3899999998538988,32,7,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,56,completed,valid,completed,1,0,400.0,39.63569999905303,800,160,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,56,failed,incomplete,time_limit,1,0,400.94332006297026,137.01279999986582,3067,631,918,715,0.6698513800424628,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,57,failed,incomplete,deadlock,0,42,4.050358341865043,2.3705000003246823,28,5,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,57,completed,invalid,completed,0,24,400.0,43.236999999862746,800,158,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,57,failed,incomplete,time_limit,1,0,400.17685105056466,194.4045999989612,2602,517,752,582,0.6735483870967742,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,58,failed,incomplete,deadlock,0,36,4.109700333782288,4.264600000169594,36,3,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,58,completed,valid,completed,1,0,400.0,39.683099999820115,800,135,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,58,failed,incomplete,time_limit,1,0,400.2615925716474,179.46130000018456,2477,489,716,550,0.6653116531165312,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,59,failed,incomplete,deadlock,0,48,3.799333628530787,3.335499999593594,28,5,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,59,completed,valid,completed,1,0,400.0,38.78140000051644,800,140,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,59,failed,incomplete,time_limit,1,0,400.0281477570343,106.14220000024943,2326,427,658,533,0.6929955290611028,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,60,failed,incomplete,deadlock,0,60,3.67461951693559,2.812900000208174,28,5,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,60,completed,valid,completed,1,0,400.0,41.82989999935671,800,163,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,60,failed,incomplete,time_limit,1,0,401.47430730353966,127.75180000062392,2422,506,711,562,0.6684856753069577,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,61,failed,incomplete,deadlock,0,53,3.5758258068152355,3.0755999996472383,24,5,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,61,completed,valid,completed,1,0,400.0,60.6686000010086,800,175,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,61,failed,incomplete,time_limit,1,0,400.2772754620523,150.11410000079195,2396,478,687,549,0.6619915848527349,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,62,failed,incomplete,deadlock,0,57,4.035802575266995,3.133700000034878,32,4,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,62,completed,valid,completed,1,0,400.0,51.664000000528176,800,151,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,62,failed,incomplete,time_limit,1,0,400.3519984568918,148.84300000085204,2471,490,711,553,0.6607142857142857,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,63,failed,incomplete,deadlock,0,54,4.047017578077348,4.15919999977632,32,4,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,63,completed,valid,completed,1,0,400.0,71.13940000090224,800,153,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,63,failed,incomplete,time_limit,1,0,400.10626008255093,141.84860000023036,2375,454,694,527,0.6782106782106783,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,64,failed,incomplete,deadlock,0,56,3.77007192185091,2.2059000002627727,28,5,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,64,completed,invalid,completed,0,15,391.14494359902426,45.874200000980636,800,157,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,64,failed,incomplete,time_limit,0,16,400.0084956066866,127.08459999885235,2396,478,685,545,0.6544715447154471,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,65,failed,incomplete,deadlock,0,57,4.114046033691945,2.4783999997453066,32,4,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,65,completed,valid,completed,1,0,400.0,114.38129999987723,800,154,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,65,failed,incomplete,time_limit,1,0,400.1019693874399,121.44599999919592,2442,463,696,564,0.681881051175657,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,66,failed,incomplete,deadlock,0,64,4.03326791708747,1.7683000005490612,28,5,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,66,completed,valid,completed,1,0,400.0,48.971700000038254,800,162,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,66,failed,incomplete,time_limit,0,21,400.03937748258403,147.56500000112283,3021,571,876,674,0.66996699669967,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,67,failed,incomplete,deadlock,0,72,2.0940897751293512,2.749700001004385,20,7,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,67,completed,valid,completed,1,0,400.0,64.71090000013646,800,172,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,67,failed,incomplete,time_limit,0,20,400.21472519626786,273.3613999989757,2575,521,756,584,0.6679487179487179,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,68,failed,incomplete,deadlock,0,54,4.0281649613258494,4.562799998893752,28,3,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,68,completed,invalid,completed,0,26,391.99962455092776,82.22770000065793,800,146,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,68,failed,incomplete,time_limit,1,0,400.6010875222247,140.2658999995765,2200,416,602,495,0.677570093457944,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,69,failed,incomplete,deadlock,0,62,3.8151895220799577,2.6858000001084292,24,10,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,69,completed,valid,completed,1,0,400.0,48.26370000046154,800,159,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,69,failed,incomplete,time_limit,1,0,400.2072391890427,132.12650000059512,2488,482,715,564,0.6523489932885906,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,70,failed,incomplete,deadlock,0,59,3.9293714294708146,1.7343999988952419,28,7,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,70,completed,valid,completed,1,0,400.0,39.62359999968612,800,184,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,70,failed,incomplete,time_limit,1,0,400.1002873573799,111.36159999841766,2301,461,662,504,0.6558823529411765,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,baseline,71,failed,incomplete,deadlock,0,52,3.5164479009472656,1.7478999998274958,24,7,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,timeout_baseline,71,completed,valid,completed,1,0,400.0,40.85080000004382,800,157,0,0,0.0,deterministic,1.0.0
+exp_hard_difficulty_30,Hard Problem Preset Calibration Sweep,protected,71,failed,incomplete,time_limit,0,33,400.2976945410439,184.01059999996505,2626,536,781,585,0.6743886743886743,deterministic,1.0.0
