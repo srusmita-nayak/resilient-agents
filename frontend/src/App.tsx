@@ -14,14 +14,9 @@ import { HealthStatus, SimEvent } from './api/types';
 
 export const App: React.FC = () => {
   const [health, setHealth] = useState<HealthStatus | null>(null);
-  const [eventFeed, setEventFeed] = useState<SimEvent[]>([]);
 
   // Real-time WebSocket hook
-  const { isConnected, lastEvent, events } = useWebSocket({
-    onEvent: (ev) => {
-      setEventFeed((prev) => [...prev.slice(-199), ev]);
-    },
-  });
+  const { isConnected, lastEvent, events } = useWebSocket();
 
   // Health poll on load and every 10 seconds
   useEffect(() => {

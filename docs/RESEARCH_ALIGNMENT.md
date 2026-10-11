@@ -31,8 +31,8 @@ This document maps all prompt requirements to their implementing modules, verifi
 | SVG Workspace Playback & Scrubber | `frontend/src/pages/WorkspacePage.tsx` | Manual & unit test verification | **DONE-TESTED** | Replays real recorded events from DB |
 | LLM Adapter & Safe Connection Test | `backend/app/agents/llm_adapter.py`, `routes.py` | `test_llm_adapter.py`, `test_api_endpoints.py` | **DONE-TESTED** | Fallback on errors, key never exposed |
 | Mock LLM Provider | `backend/app/agents/policies.py` | `test_llm_adapter.py` | **DONE-TESTED** | Rate limit, timeout, malformed JSON tests |
-| Sanity Empirical Experiment Runs (30 seeds) | `scripts/run_sanity_experiments.py`, `results/` | 5 suites, 120 runs each (600 runs total executed) | **DONE-TESTED** | Exported to `results/*.csv` |
-| Real Localhost UDP Transport | `backend/app/core/transport_udp.py` | Prototype evaluation | **PARTIAL / UNTESTED** | Core platform uses virtual channel |
+| Sanity Empirical Experiment Runs (30 seeds) | `scripts/run_sanity_experiments.py`, `results/` | 5 suites, 120 runs each in SQLite (600 runs total; 450 comparative Mode A/B/C rows exported to `results/*.csv`, 150 paired reference runs in DB) | **DONE-TESTED** | Exported to `results/*.csv` |
+| Real Localhost UDP Transport | `backend/app/core/transport_udp.py` | `test_transport_udp.py` (5 socket tests) | **DONE-TESTED** | Loopback UDP transport with datagram serialization, multi-agent routing & latency tracking |
 
 ---
 

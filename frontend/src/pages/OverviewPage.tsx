@@ -18,11 +18,16 @@ export const OverviewPage: React.FC<OverviewPageProps> = ({ eventsFeed }) => {
     async function loadData() {
       try {
         const [expRes, statusRes] = await Promise.all([
-          api.listExperiments({ limit: 1 }),
+          api.listExperiments({ limit: 25 }),
           api.getSystemStatus(),
         ]);
         if (expRes.experiments.length > 0) {
-          const detail = await api.getExperiment(expRes.experiments[0].id);
+          // Prioritize substantive multi-run research sweeps over test artifacts
+          const chosen =
+            expRes.experiments.find(
+              (e) => e.total_runs >= 10 && !e.name.startsWith('=') && !e.name.includes('Test')
+            ) || expRes.experiments[0];
+          const detail = await api.getExperiment(chosen.id);
           setLatestExp(detail);
         }
         setSysStatus(statusRes);

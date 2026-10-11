@@ -30,5 +30,6 @@ In adherence to Non-Negotiable Research Integrity Rules, this document explicitl
 
 ---
 
-## 5. Untested & Partial Modules
-- **Real Localhost UDP Transport (`transport_udp`):** While virtual channel discrete simulation is fully tested and verified across 32 unit tests and 5 suites, multi-process physical UDP socket transport across distinct physical machines is marked **UNTESTED** in the current prototype.
+## 5. Scope of Physical UDP Transport
+- **Localhost UDP Transport (`transport_udp`):** Real localhost loopback UDP socket transport is implemented and unit-tested (`test_transport_udp.py`). However, multi-machine distributed deployment across separate physical hosts/containers over wide-area networks remains outside the current single-host prototype scope.
+

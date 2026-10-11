@@ -15,10 +15,15 @@ export const AnalyticsPage: React.FC = () => {
   useEffect(() => {
     async function loadInitial() {
       try {
-        const res = await api.listExperiments({ limit: 15 });
+        const res = await api.listExperiments({ limit: 50 });
         setExperiments(res.experiments);
         if (res.experiments.length > 0) {
-          setSelectedExpId(res.experiments[0].id);
+          // Prioritize substantive multi-run research sweeps over test artifacts
+          const chosen =
+            res.experiments.find(
+              (e) => e.total_runs >= 10 && !e.name.startsWith('=') && !e.name.includes('Test')
+            ) || res.experiments[0];
+          setSelectedExpId(chosen.id);
         }
       } catch (err) {
         console.error(err);
@@ -85,10 +90,11 @@ export const AnalyticsPage: React.FC = () => {
           >
             {experiments.map((e) => (
               <option key={e.id} value={e.id}>
-                {e.name} ({e.agent_type})
+                {e.name} ({e.agent_type}) • {e.total_runs} runs
               </option>
             ))}
           </select>
+
 
           {/* Toggle Paired Calibration */}
           <button

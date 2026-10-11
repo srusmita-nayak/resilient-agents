@@ -1,12 +1,25 @@
+import tempfile
+from pathlib import Path
 import pytest
 from fastapi.testclient import TestClient
 from app.db.database import init_db
-from app.main import app
+from app.main import create_app
 
-init_db()
-client = TestClient(app)
 
-def test_health_and_ready():
+@pytest.fixture
+def client():
+    with tempfile.TemporaryDirectory(ignore_cleanup_errors=True) as tmpdir:
+        test_db = Path(tmpdir) / "test_api.db"
+        init_db(test_db)
+        test_app = create_app(db_path=test_db)
+        with TestClient(test_app) as c:
+            yield c
+        if hasattr(test_app.state, "orchestrator"):
+            test_app.state.orchestrator.wait_idle(timeout=2.0)
+
+
+
+def test_health_and_ready(client):
     resp = client.get("/api/health")
     assert resp.status_code == 200
     data = resp.json()
@@ -18,14 +31,16 @@ def test_health_and_ready():
     assert resp_ready.status_code == 200
     assert resp_ready.json() == {"ready": True}
 
-def test_system_status():
+
+def test_system_status(client):
     resp = client.get("/api/system/status")
     assert resp.status_code == 200
     data = resp.json()
     assert "database_stats" in data
     assert "limits" in data
 
-def test_presets():
+
+def test_presets(client):
     resp = client.get("/api/presets")
     assert resp.status_code == 200
     data = resp.json()
@@ -34,7 +49,8 @@ def test_presets():
     assert "easy" in data["difficulty_presets"]
     assert "reliable" in data["fault_presets"]
 
-def test_create_and_get_experiment():
+
+def test_create_and_get_experiment(client):
     payload = {
         "name": "Integration Test Experiment",
         "problem": {
@@ -64,17 +80,19 @@ def test_create_and_get_experiment():
     assert exp_data["name"] == "Integration Test Experiment"
     assert exp_data["agent_type"] == "deterministic"
 
-def test_llm_test_connection_unconfigured():
+
+def test_llm_test_connection_unconfigured(client):
     resp = client.post("/api/llm/test-connection", json={"gemini_api_key": ""})
     assert resp.status_code == 200
     data = resp.json()
     assert data["configured"] is False
     assert "No API key configured" in data["message"]
 
-def test_csv_export_headers_and_escaping():
+
+def test_csv_export_headers_and_escaping(client):
     # Create experiment and check CSV export response format
     payload = {
-        "name": "=HYPERLINK(\"http://evil.com\")", # Formula injection attempt
+        "name": "=HYPERLINK(\"http://evil.com\")",  # Formula injection attempt
         "problem": {"num_agents": 3, "num_nodes": 9, "num_colors": 3},
         "faults": {},
         "modes": ["baseline"],
@@ -93,3 +111,4 @@ def test_csv_export_headers_and_escaping():
     # Verify header line exists
     assert "run_id" in content
     assert "simulated_time_virtual_units" in content
+

@@ -11,7 +11,12 @@ This directory contains real, stored CSV data exports derived from executing mul
 5. **`results_partition_sweep.csv`**: Temporary network partition burst from $t=10.0$ to $t=25.0$ virtual units (duration 15.0u). Demonstrates post-partition recovery where Mode C reconciles boundary node states via monotonic versions and authoritative snapshot synchronization.
 6. **`results_hard_sweep.csv`**: High-density graph instance (35 nodes, 5 agents, edge density 0.50, round budget 40). Calibrates algorithmic solver limits against communication fault damage.
 
+### Run Count Architecture (Database vs. CSV Exports)
+- **SQLite Database:** Each suite executes **120 runs** (30 seeds $\times$ [1 fault-free reference + 3 protocol modes]), totaling **600 runs** stored in `resilient_agents.db`.
+- **CSV Exports:** The CSV sweep files serialize the evaluated comparative cells (Modes A, B, and C; 90 rows per suite), totaling **450 rows** in `master_experiment_results.csv`. The 150 fault-free reference runs are retained in SQLite for paired solvability calibration (`paired_fault_free_only`).
+
 ## Column Dictionary
+
 
 - `run_id`: Unique identifier for the individual simulation execution.
 - `experiment_id`: Parent experiment batch identifier.

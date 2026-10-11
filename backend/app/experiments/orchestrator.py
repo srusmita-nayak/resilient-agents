@@ -42,6 +42,18 @@ class ExperimentOrchestrator:
             flag = self._cancel_flags.get(experiment_id)
             return flag.is_set() if flag else False
 
+    def wait_idle(self, timeout: float = 5.0) -> bool:
+        """Blocks until the background task queue is empty and the active experiment finishes."""
+        t0 = time.time()
+        while time.time() - t0 < timeout:
+            with self._lock:
+                if self.task_queue.empty() and self.active_experiment_id is None:
+                    return True
+            time.sleep(0.02)
+        with self._lock:
+            return self.task_queue.empty() and self.active_experiment_id is None
+
+
     def submit_experiment(
         self,
         experiment_id: str,
